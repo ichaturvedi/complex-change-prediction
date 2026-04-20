@@ -12,7 +12,8 @@ Complex Valued Nonlinear Adaptive Filtering toolbox for MATLAB, Supplementary to
 
 English Conversations
 ---
-<img width="1986" height="1212" alt="Image" src="https://github.com/user-attachments/assets/8f13ad4f-7998-4a82-a641-25189b03a31d" />
+
+<img width="1986" height="1212" alt="Image" src="https://github.com/user-attachments/assets/1a4270df-a604-4219-b27b-e2db9814ebdd" />
 
 - We consider the audio signal in English conversations 
 - Emotion changes from Happy to Excited
