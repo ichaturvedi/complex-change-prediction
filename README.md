@@ -1,19 +1,16 @@
-# complex_change_prediction
-We predict changes in emotions in a conversation using speech data
-
-Sound Change Prediction
+Speech Emotion Change Prediction
 ===
 This code implements the model discussed in the paper Speech emotion change prediction using Complex Recurrent Neurons. It converts speech conversations to complex fourier signals for training. Next, during testing the phase information during prediction is used to detect emotional transitions such as from 'Anger' to 'Frustration'.  
 
 Requirements
 ---
 This code is based on : 
-Complex Valued Nonlinear Adaptive Filtering toolbox for MATLAB
-Supplementary to the book:
+
+Complex Valued Nonlinear Adaptive Filtering toolbox for MATLAB, Supplementary to the book:
 
 "Complex Valued Nonlinear Adaptive Filters: Noncircularity, Widely Linear and Neural Models" by Danilo P. Mandic and Vanessa Su Lee Goh
 
-Spanish video reviews
+English Conversations
 ---
 ![affectivespace](https://user-images.githubusercontent.com/65399216/141210623-89cd06ad-bb20-4c24-9d5d-768d6d9136ed.jpeg)
 ![image](https://user-images.githubusercontent.com/65399216/141210851-2a3db50a-f1b7-4e7b-aedb-30ee9dfe53d6.gif)
