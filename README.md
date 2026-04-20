@@ -15,6 +15,8 @@ English Conversations
 ![affectivespace](https://user-images.githubusercontent.com/65399216/141210623-89cd06ad-bb20-4c24-9d5d-768d6d9136ed.jpeg)
 ![image](https://user-images.githubusercontent.com/65399216/141210851-2a3db50a-f1b7-4e7b-aedb-30ee9dfe53d6.gif)
 
+<img width="1986" height="1212" alt="Image" src="https://github.com/user-attachments/assets/8f13ad4f-7998-4a82-a641-25189b03a31d" />
+
 - We consider the audio signal in Spanish product videos. 
 - Negative sounds often start with 'ab' or 'con' phonetics.
 
