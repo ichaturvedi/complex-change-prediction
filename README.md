@@ -1,6 +1,6 @@
 Speech Emotion Change Prediction
 ===
-This code implements the model discussed in the paper Speech emotion change prediction using Complex Recurrent Neurons. It converts speech conversations to complex fourier signals for training. Next, during testing the phase information during prediction is used to detect emotional transitions such as from 'Anger' to 'Frustration'.  
+This code implements the model discussed in the paper Speech emotion change prediction using Complex Recurrent Neurons. It converts speech conversations to complex fourier signals for training. Next, during testing the phase of the predicted signal is used to detect emotional transitions such as from 'Anger' to 'Frustration'.  
 
 Requirements
 ---
