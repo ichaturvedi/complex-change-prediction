@@ -17,12 +17,14 @@ English Conversations
 
 - We consider the audio signal in English conversations 
 - Emotion changes from Happy to Excited
+- Downsampling followed by Fourier transform is used to convert each audio to a complex vector
 
 Complex recurrent neural network
 ---
 
 - We train the complex recurrent network using audio samples from both 'Angry' and 'Frustration' emotions
 - During testing we consider two consecutive uttrances in a conversation from both emotion classes
+- Testing uses the trained model to predict the complex signal two consecutive utterances 
 
 The code for training and testing is as follows :
 
@@ -34,6 +36,14 @@ rtrl_speech('audiodata','audiodata_labels.txt','ang','fru')
 Classification
 ---
 
+- Class 1 is when there is a change in emotions from 'ang' to 'fru'
+- Class 2 is when there is no change in emotions using the label file
+- We consider the maximum phase angle for each predicted sequence for classification
 
+The code for classification is as follows : 
+
+fmeaavg = computeAcc(changeFile, angleFile)
+- changeFile has the target label as change or no change for two consecutive utterances
+- angleFile has the maximum phase angle for each predicted sequence during testing
 
 
