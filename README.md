@@ -45,5 +45,6 @@ The code for classification is as follows :
 fmeaavg = computeAcc(changeFile, angleFile)
 - changeFile has the target label as change or no change for two consecutive utterances
 - angleFile has the maximum phase angle for each predicted sequence during testing
+- output is the average F-measure over both classes
 
 
