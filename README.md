@@ -18,5 +18,22 @@ English Conversations
 - We consider the audio signal in English conversations 
 - Emotion changes from Happy to Excited
 
+Complex recurrent neural network
+---
+
+- We train the complex recurrent network using audio samples from both 'Angry' and 'Frustration' emotions
+- During testing we consider two consecutive uttrances in a conversation from both emotion classes
+
+The code for training and testing is as follows :
+
+rtrl_speech('audiodata','audiodata_labels.txt','ang','fru')
+- audiodata is the directory with audio samples
+- audiodata_label is the file with emotion labels
+- we specify two emotions for which we want to predict the change in emotions
+
+Classification
+---
+
+
 
 
