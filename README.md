@@ -22,29 +22,23 @@ English Conversations
 Complex recurrent neural network
 ---
 
-- We train the complex recurrent network using audio samples from both 'Angry' and 'Frustration' emotions
-- During testing we consider two consecutive uttrances in a conversation from both emotion classes
-- Testing uses the trained model to predict the complex signal two consecutive utterances 
+- We train the complex recurrent network using pairs of consecutive audios from the same speaker
+- We focus on a transition window of 8 seconds ( 4 from each audio )
+- Most frequent emotion pairs and a balanced same emotion pair was used 
 
 The code for training and testing is as follows :
 
-rtrl_speech('audiodata','audiodata_labels.txt','ang','fru')
-- audiodata is the directory with audio samples
-- audiodata_label is the file with emotion labels
-- we specify two emotions for which we want to predict the change in emotions
+carv_speech('metadata.csv','AllSentences')
+- AllSentences is the directory with audio samples for each utterance
+- metadata.csv is the file with emotion labels and change information
 
-Classification
+Ablation
 ---
 
-- Class 1 is when there is a change in emotions from 'ang' to 'fru'
-- Class 2 is when there is no change in emotions using the label file
-- We consider the maximum phase angle for each predicted sequence for classification
+- The code predicts F-measure for Change and No Change classes
+- We provide results from only real and only imaginary features for comparison
 
-The code for classification is as follows : 
 
-fmeaavg = computeAcc(changeFile, angleFile)
-- changeFile has the target label as change or no change for two consecutive utterances
-- angleFile has the maximum phase angle for each predicted sequence during testing
-- output is the average F-measure over both classes
+
 
 
