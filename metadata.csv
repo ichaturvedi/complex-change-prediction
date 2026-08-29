@@ -1,0 +1,25 @@
+﻿ID,AudioFile,Emotion,Transcript,OriginalFile,OriginalPath
+1,1.wav,neu,Excuse me.,Ses01F_impro01_F000.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F000.wav
+2,2.wav,fru,Do you have your forms?,Ses01F_impro01_M000.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M000.wav
+3,3.wav,neu,Yeah.,Ses01F_impro01_F001.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F001.wav
+4,4.wav,fru,Let me see them.,Ses01F_impro01_M001.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M001.wav
+5,5.wav,neu,Is there a problem?,Ses01F_impro01_F002.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F002.wav
+6,6.wav,fru,Who told you to get in this line?,Ses01F_impro01_M002.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M002.wav
+7,7.wav,xxx,You did.,Ses01F_impro01_F003.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F003.wav
+8,8.wav,xxx,You were standing at the beginning and you directed me.,Ses01F_impro01_F004.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F004.wav
+9,9.wav,fru,Okay. But I didn't tell you to get in this line if you are filling out this particular form.,Ses01F_impro01_M003.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M003.wav
+10,10.wav,neu,Well what's the problem?  Let me change it.,Ses01F_impro01_F005.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F005.wav
+11,11.wav,fru,This form is a Z.X.four.,Ses01F_impro01_M004.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M004.wav
+12,12.wav,fru,"You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.",Ses01F_impro01_M005.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M005.wav
+13,13.wav,fru,What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.,Ses01F_impro01_F006.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F006.wav
+14,14.wav,fru,No. I need another set of ID to prove this is actually you.,Ses01F_impro01_M006.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M006.wav
+15,15.wav,fru,How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?,Ses01F_impro01_F007.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F007.wav
+16,16.wav,fru,I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.,Ses01F_impro01_M007.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M007.wav
+17,17.wav,fru,I'm here to get an ID.,Ses01F_impro01_F008.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F008.wav
+18,18.wav,fru,"No.  I need another ID, a separate one.",Ses01F_impro01_M008.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M008.wav
+19,19.wav,fru,Like what?  Like a birth certificate?,Ses01F_impro01_F009.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F009.wav
+20,20.wav,fru,"A birth certificate, a passport...a student ID; didn't you go to school?  Anything?",Ses01F_impro01_M009.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M009.wav
+21,21.wav,xxx,Who the hell has a birth certificate?,Ses01F_impro01_F010.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F010.wav
+22,22.wav,fru,"Yes but my wallet was stolen, I don't have anything.  I don't have any credit cards, I don't have my ID.  Don't you have things on file here?",Ses01F_impro01_F011.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F011.wav
+23,23.wav,fru,"Yeah.  We keep it on file, but we need an ID to access that file.",Ses01F_impro01_M010.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_M010.wav
+24,24.wav,ang,That's out of control.,Ses01F_impro01_F012.wav,iemocap/Session1/dialog/wav/Ses01F_impro01/Ses01F_impro01_F012.wav
